@@ -22,7 +22,7 @@ It supports PNG, JPG, WebM and MP4 files, and includes local tools to edit or re
 
 Use online:
 
-[link here]
+https://shirosaki33.github.io/PNG-Metadata-Reader/png%20metadata%20reader.html
 
 Or use locally:
 
