@@ -29,7 +29,7 @@ Or use locally:
 Download the HTML file and drag it into your web browser.
 
 Local use is recommended. If PNG Metadata Reader and LoRA Metadata Reader are in the same directory, the tool can open LoRA Metadata Reader locally, making the workflow faster and easier when using both tools together.
-LoRa Metadata Reader> https://github.com/shirosaki33/Lora-Metadata-Reader
+LoRa Metadata Reader> [https://github.com/shirosaki33/Lora-Metadata-Reader](https://shirosaki33.github.io/Lora-Metadata-Reader/Lora%20Metadata%20Reader.html)
 
 <img width="1363" height="1260" alt="example 4" src="https://github.com/user-attachments/assets/25a2015e-46dc-4446-a268-01905248c13e" />
 <img width="1363" height="1260" alt="example 3" src="https://github.com/user-attachments/assets/6f1f537b-454e-4835-a3b2-952e050b22b7" />
