@@ -24,6 +24,9 @@ Use online:
 
 https://shirosaki33.github.io/PNG-Metadata-Reader/png%20metadata%20reader.html
 
+use directly on SD:
+https://github.com/shirosaki33/sd-metadata-online
+
 Or use locally:
 
 Download the HTML file and drag it into your web browser.
